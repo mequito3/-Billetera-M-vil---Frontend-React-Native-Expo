@@ -3,6 +3,8 @@ Aplicación con React Native para la competencia de la U
 
 **Instalar dependencias:** npm install
 
+**Para ejecutar el proyecto:** npm start
+
 # Esta aplicación web es una billetera móvil simple y fácil de usar que te permite:
 
 **Ver tu saldo:** Puedes ver el saldo actual de tu billetera en cualquier momento.
